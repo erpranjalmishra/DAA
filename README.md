@@ -1,4 +1,3 @@
-# DAA
 # DAA Class Labs
 
 ## Overview
@@ -7,10 +6,10 @@ This repository contains Java implementations of various algorithmic problems co
 ## Files Description
 Below is a brief description of the Java programs included in this repository:
 
-1. **code.java** - (Description of what this file does)
-2. **code2.java** - (Description of what this file does)
-3. **code3.java** - (Description of what this file does)
-4. **code4.java** - (Description of what this file does)
+1. **code.java**
+2. **code2.java** 
+3. **code3.java**
+4. **code4.java** 
 5. **code5.java** - Rotates an array `k` times using the reverse technique.
 6. **code6.java** - Checks if all elements in an array have a pair; includes an alternative approach using HashMap. Also contains additional implementations:
    - Product of array elements except for the current position.
@@ -29,16 +28,16 @@ To execute any of the programs, follow these steps:
 
 
 
-Prerequisites
+**Prerequisites**
 Java 8 or later
 
 Basic knowledge of algorithms and data structures
 
-Contributions
+**Contributions**
 Feel free to contribute by adding new algorithms, optimizing existing solutions, or fixing any issues. Fork the repository, make changes, and submit a pull request.
 
-License
+**License**
 This project is for educational purposes and can be freely used and modified.
 
-Author
+**Author**
 Pranjal Mishra
